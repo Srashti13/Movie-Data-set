@@ -18,7 +18,7 @@ I was able to find Top Earning movies of 21st Century (i.e. 2001-2018), Highest 
 # Visualizations:
  Couple of visualizations are done to process the information easily and fast. One of the example is:
  
- ![pic1]()
+ ![pic1](Top20earningmovies.PNG)
 
 # Future work:
 1. More websites can also be added like Netflix.com, popcornflix.com etc which can add more details about movies.
