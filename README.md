@@ -5,12 +5,12 @@ Data is collected by web scraping using Rvest, omdbapi(independent package) in R
 
 # Data Wrangling
 Data Preprocessing in an important data mining step used to convert raw data to usable format. Often data is inconsistent with missing values, and contains many errors.
-Some of the steps taken for this dataset:
-    1. Type Adjustment
-    2. Handling missing Values
-    3. Hot encoding
-    4. Merging
-    5. Inflation adjustment
+   Some of the steps taken for this dataset:
+    * Type Adjustment
+    * Handling missing Values
+    * Hot encoding
+    * Merging
+    * Inflation adjustment
     
 # Data Exploration and Findings
 I was able to find Top Earning movies of 21st Century (i.e. 2001-2018), Highest Earning Studio, Highest Earning Genre, Average runtime for movies for each studio, Highest Earning Rating for the movies, Biggest Opening day earner of the 21st Century etc which gave us meaningful insights about the movies.
