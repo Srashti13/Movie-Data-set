@@ -4,13 +4,12 @@ Movies are becoming an important part of life. In the age of digital world, stud
 Data is collected by web scraping using Rvest, omdbapi(independent package) in R from various movie websites such as IMDB Omdbapi, Rotten Tomato, Box Office Mojo & National Association of Theatre Owners etc. and saved into csv format.
 
 # Data Wrangling
-Data Preprocessing in an important data mining step used to convert raw data to usable format. Often data is inconsistent with missing values, and contains many errors.
-   Some of the steps taken for this dataset:
-    * Type Adjustment
-    * Handling missing Values
-    * Hot encoding
-    * Merging
-    * Inflation adjustment
+Data Preprocessing in an important data mining step used to convert raw data to usable format. Often data is inconsistent with missing values, and contains many errors. Some of the steps taken to convert data into usable format:
+* Type Adjustment
+* Handling missing Values
+* Hot encoding
+* Merging
+* Inflation adjustment
     
 # Data Exploration and Findings
 I was able to find Top Earning movies of 21st Century (i.e. 2001-2018), Highest Earning Studio, Highest Earning Genre, Average runtime for movies for each studio, Highest Earning Rating for the movies, Biggest Opening day earner of the 21st Century etc which gave us meaningful insights about the movies.
