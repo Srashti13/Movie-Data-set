@@ -1,5 +1,5 @@
 # Movie-Analysis
-Movies are becoming an important part of life. In the age of digital world, studying its role and impact on society is a challenging task. It entertains people and influence them and at the same time it also helps to make profit for film companies which motivates them to create more movies for people.
+Movies are becoming an important part of life. In the age of digital world, studying its role and impact on society is a challenging task. It entertains people and influence them and at the same time it also helps to make profit for film companies which motivates them to create more movies for people. This Project was done as a part of AIT -580 Big Data Course.
 # Data Set
 Data is collected by web scraping using Rvest, omdbapi(independent package) in R from various movie websites such as IMDB Omdbapi, Rotten Tomato, Box Office Mojo & National Association of Theatre Owners etc. and saved into csv format.
 
